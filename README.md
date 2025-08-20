@@ -1,3 +1,3 @@
-# calculadora-python
-submissao primeira semana plp project
+# Html
+submissao segunda semana plp project
 repositorio criado durante uma aula ao vivo
